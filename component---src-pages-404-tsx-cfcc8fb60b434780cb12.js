@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktae_hyun_kim=self.webpackChunktae_hyun_kim||[]).push([[218],{786:function(e,n,u){u.r(n);var t=u(294);n.default=function(){return t.createElement("h1",null,"You're in the wrong place.")}}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-cfcc8fb60b434780cb12.js.map

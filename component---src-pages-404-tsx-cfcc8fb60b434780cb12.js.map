@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-404-tsx-cfcc8fb60b434780cb12.js","mappings":"oIAQA,UANqB,WACnB,OACE","sources":["webpack://tae-hyun-kim/./src/pages/404.tsx"],"sourcesContent":["import * as React from \"react\"\n\nconst NotFoundPage = () => {\n  return (\n    <h1>You're in the wrong place.</h1>\n  )\n}\n\nexport default NotFoundPage\n"],"names":[],"sourceRoot":""}
